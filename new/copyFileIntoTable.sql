@@ -25,10 +25,10 @@ SET search_path TO srtm_plus_schema,"$user",public;
         predicted_depth float8 NOT NULL ,
 	);
 COPY tmp FROM :tmpFile WITH (DELIMITER ',') ;
-    INSERT INTO pings (
-        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth )
-    SELECT
-        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth
-    FROM tmp
-    ;
-COMMIT;
+--    INSERT INTO pings (
+--        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth )
+--    SELECT
+--        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth
+--    FROM tmp
+--    ;
+--COMMIT;
