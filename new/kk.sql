@@ -1,5 +1,5 @@
 \connect sample
-select * from company;
+select count(*) from company;
  CREATE TEMP TABLE tmp (
         ID INT     NOT NULL,
         key       int NOT NULL

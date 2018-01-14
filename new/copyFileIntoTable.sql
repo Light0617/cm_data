@@ -1,6 +1,5 @@
-
 \timing on
-\connect loadsample
+\connect sample
 SET search_path TO srtm_plus_schema,"$user",public;
 
 -- Touch up cruises near international date line that often have longitudes like -182,
@@ -22,13 +21,13 @@ SET search_path TO srtm_plus_schema,"$user",public;
         sigma_h         float8 NOT NULL ,
         sigma_d         float8 NOT NULL ,
         source_id       int4   NOT NULL ,
-        predicted_depth float8 NOT NULL ,
+        predicted_depth float8 NOT NULL
 	);
-COPY tmp FROM :tmpFile WITH (DELIMITER ',') ;
---    INSERT INTO pings (
---        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth )
---    SELECT
---        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth
---    FROM tmp
---    ;
---COMMIT;
+COPY tmp FROM :v1 WITH (DELIMITER ' ') ;
+    INSERT INTO pings (
+        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth )
+    SELECT
+        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth
+    FROM tmp
+    ;
+COMMIT;
