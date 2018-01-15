@@ -1,0 +1,1098 @@
+/geosat2/cm_data_topo1/data/private/3DGBR/0270_SS052004_KennPlateau_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.441 ms
+Time: 0.989 ms
+Time: 0.146 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/0274_SS022005_MellishRise_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.161 ms
+CREATE TABLE
+Time: 1.479 ms
+COPY 0
+Time: 0.724 ms
+INSERT 0 0
+Time: 0.431 ms
+COMMIT
+Time: 0.306 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/0277_CRC012004_FitzroyRiver_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.415 ms
+Time: 0.885 ms
+Time: 0.147 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/0295_SS012005_FraserIsland_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.139 ms
+CREATE TABLE
+Time: 1.391 ms
+Time: 1.019 ms
+Time: 0.145 ms
+ROLLBACK
+Time: 0.100 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1149_WEST04MV_PapeeteBrisbane_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.161 ms
+CREATE TABLE
+Time: 1.412 ms
+Time: 1.113 ms
+Time: 0.158 ms
+ROLLBACK
+Time: 0.086 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1152_WEST06MV_BrisbaneNukuAlofa_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.158 ms
+CREATE TABLE
+Time: 1.423 ms
+Time: 1.054 ms
+Time: 0.143 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1211_EW9202_EW9202_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.143 ms
+CREATE TABLE
+Time: 1.433 ms
+Time: 0.876 ms
+Time: 0.140 ms
+ROLLBACK
+Time: 0.089 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1212_EW9203_WoodlarkBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.164 ms
+CREATE TABLE
+Time: 1.531 ms
+Time: 0.932 ms
+Time: 0.152 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1273_BMRG07MV_PortHedlandSuva_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.422 ms
+Time: 0.991 ms
+Time: 0.217 ms
+ROLLBACK
+Time: 0.089 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/1969_MW9304_WoodlarkBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.180 ms
+CREATE TABLE
+Time: 1.420 ms
+Time: 0.962 ms
+Time: 0.140 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2306_EW0201_HobartGuam_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.116 ms
+CREATE TABLE
+Time: 1.478 ms
+Time: 1.049 ms
+Time: 0.151 ms
+ROLLBACK
+Time: 0.066 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2312_TAN0308_NORFANZ_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.514 ms
+Time: 1.133 ms
+Time: 0.139 ms
+ROLLBACK
+Time: 0.087 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2320_EW9511_SolomonIslands_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.145 ms
+CREATE TABLE
+Time: 1.396 ms
+Time: 0.982 ms
+Time: 0.142 ms
+ROLLBACK
+Time: 0.075 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2322_EW9911_WoodlarkBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.483 ms
+Time: 0.990 ms
+Time: 0.154 ms
+ROLLBACK
+Time: 0.082 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2323_EW9912_NthAustOceans_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.149 ms
+CREATE TABLE
+Time: 1.385 ms
+Time: 1.122 ms
+Time: 0.162 ms
+ROLLBACK
+Time: 0.084 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2324_EW9914_LauBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.121 ms
+CREATE TABLE
+Time: 1.492 ms
+Time: 1.067 ms
+Time: 0.143 ms
+ROLLBACK
+Time: 0.082 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2331_VANC12MV_VANC12_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.169 ms
+CREATE TABLE
+Time: 1.418 ms
+Time: 0.924 ms
+Time: 0.169 ms
+ROLLBACK
+Time: 0.075 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2336_VANC19MV_VANC19_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.430 ms
+Time: 0.961 ms
+Time: 0.133 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2338_VANC23MV_VANC23_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.417 ms
+Time: 0.947 ms
+Time: 0.148 ms
+ROLLBACK
+Time: 0.073 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2339_VANC24MV_VANC24_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.190 ms
+CREATE TABLE
+Time: 1.449 ms
+Time: 0.915 ms
+Time: 0.148 ms
+ROLLBACK
+Time: 0.068 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2340_VANC26MV_VANC26_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.123 ms
+CREATE TABLE
+Time: 1.409 ms
+Time: 0.849 ms
+Time: 0.141 ms
+ROLLBACK
+Time: 0.070 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2341_VANC27MV_VANC27_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.192 ms
+CREATE TABLE
+Time: 1.430 ms
+Time: 1.030 ms
+Time: 0.154 ms
+ROLLBACK
+Time: 0.073 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2343_VANC30MV_VANC30_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.146 ms
+CREATE TABLE
+Time: 1.362 ms
+Time: 0.914 ms
+Time: 0.172 ms
+ROLLBACK
+Time: 0.072 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2357_SS062004_COTROVE_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.404 ms
+Time: 0.948 ms
+Time: 0.174 ms
+ROLLBACK
+Time: 0.081 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2359_SS102004_Tonga_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.130 ms
+CREATE TABLE
+Time: 1.494 ms
+Time: 0.868 ms
+Time: 0.138 ms
+ROLLBACK
+Time: 0.072 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2361_GATOPAS_TopasTrial_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.146 ms
+CREATE TABLE
+Time: 1.337 ms
+Time: 1.068 ms
+Time: 0.129 ms
+ROLLBACK
+Time: 0.075 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2363_SS092004_SEQueensland_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.151 ms
+CREATE TABLE
+Time: 1.359 ms
+Time: 0.968 ms
+Time: 0.158 ms
+ROLLBACK
+Time: 0.073 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2364_EW9910_WoodlarkBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.158 ms
+CREATE TABLE
+Time: 1.426 ms
+Time: 1.095 ms
+Time: 0.176 ms
+ROLLBACK
+Time: 0.096 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2370_VANC22MV_VANC22_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.137 ms
+CREATE TABLE
+Time: 1.428 ms
+Time: 0.948 ms
+Time: 0.159 ms
+ROLLBACK
+Time: 0.085 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2371_VANC25_VANC25_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.111 ms
+CREATE TABLE
+Time: 1.393 ms
+Time: 1.014 ms
+Time: 0.179 ms
+ROLLBACK
+Time: 0.103 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2373_CRC020004_MoretonBay_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.121 ms
+CREATE TABLE
+Time: 1.565 ms
+Time: 0.868 ms
+Time: 0.136 ms
+ROLLBACK
+Time: 0.085 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2374_MANAUTE_ManusBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.115 ms
+CREATE TABLE
+Time: 1.441 ms
+Time: 1.007 ms
+Time: 0.140 ms
+ROLLBACK
+Time: 0.068 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2382_MD148_PECTON_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.121 ms
+CREATE TABLE
+Time: 1.402 ms
+Time: 1.069 ms
+Time: 0.152 ms
+ROLLBACK
+Time: 0.076 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2384_MR03K04L1_TropOceanClimate_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.161 ms
+CREATE TABLE
+Time: 1.369 ms
+Time: 0.866 ms
+Time: 0.178 ms
+ROLLBACK
+Time: 0.073 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2385_MR03K03L2_TropOceanClimate_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.112 ms
+CREATE TABLE
+Time: 1.373 ms
+Time: 0.878 ms
+Time: 0.187 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2391_EW0002_WoodlarkBasin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.465 ms
+Time: 0.991 ms
+Time: 0.170 ms
+ROLLBACK
+Time: 0.081 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2392_EW9510_WoodlarkBasin.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.167 ms
+CREATE TABLE
+Time: 1.499 ms
+Time: 1.000 ms
+Time: 0.162 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2395_MD153_AusfairZoNeco12_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.158 ms
+CREATE TABLE
+Time: 1.369 ms
+Time: 1.085 ms
+Time: 0.171 ms
+ROLLBACK
+Time: 0.070 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2407_KM0505_KM0505_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.110 ms
+CREATE TABLE
+Time: 1.356 ms
+Time: 1.122 ms
+Time: 0.148 ms
+ROLLBACK
+Time: 0.075 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2409_SST012006_DarwinSuva_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.164 ms
+CREATE TABLE
+Time: 1.455 ms
+Time: 0.947 ms
+Time: 0.145 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2411_SST022006_NoumeaSydney_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.123 ms
+CREATE TABLE
+Time: 1.378 ms
+Time: 1.040 ms
+Time: 0.132 ms
+ROLLBACK
+Time: 0.106 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2418_SO1902007_DarwinWellington_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.162 ms
+CREATE TABLE
+Time: 1.500 ms
+Time: 0.927 ms
+Time: 0.181 ms
+ROLLBACK
+Time: 0.107 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2435_KM0702_BrisbaneTownsville_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.195 ms
+CREATE TABLE
+Time: 1.369 ms
+Time: 1.120 ms
+Time: 0.128 ms
+ROLLBACK
+Time: 0.076 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2436_TAN0713_LordHoweRise_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.202 ms
+CREATE TABLE
+Time: 1.450 ms
+Time: 0.937 ms
+Time: 0.186 ms
+ROLLBACK
+Time: 0.090 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2440_SST062007_MackayNewcastle_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.162 ms
+CREATE TABLE
+Time: 1.472 ms
+Time: 0.967 ms
+Time: 0.425 ms
+ROLLBACK
+Time: 0.083 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2443_SST042007_DarwinMadang_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.156 ms
+CREATE TABLE
+Time: 1.435 ms
+Time: 0.939 ms
+Time: 0.152 ms
+ROLLBACK
+Time: 0.089 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2447_SS072007_GBRMargin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.129 ms
+CREATE TABLE
+Time: 1.432 ms
+Time: 0.941 ms
+Time: 0.142 ms
+ROLLBACK
+Time: 0.073 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2472_SST022008_SuvaCairns_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.141 ms
+CREATE TABLE
+Time: 1.439 ms
+Time: 1.062 ms
+Time: 0.160 ms
+ROLLBACK
+Time: 0.080 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2473_S092008_GBRCO2_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.200 ms
+CREATE TABLE
+Time: 1.458 ms
+Time: 1.008 ms
+Time: 0.173 ms
+ROLLBACK
+Time: 0.083 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2475_SST032008_NextWave_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.170 ms
+CREATE TABLE
+Time: 1.407 ms
+Time: 0.938 ms
+Time: 0.146 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2479_SS122008_SEAustMargin_final.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.146 ms
+CREATE TABLE
+Time: 1.370 ms
+Time: 0.909 ms
+Time: 0.150 ms
+ROLLBACK
+Time: 0.076 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2482_MR0707L1_TropOceanClimate.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.138 ms
+CREATE TABLE
+Time: 1.431 ms
+Time: 0.959 ms
+Time: 0.143 ms
+ROLLBACK
+Time: 0.111 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2488_SST022009_NoumeaHobart.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.437 ms
+Time: 1.033 ms
+Time: 0.137 ms
+ROLLBACK
+Time: 0.087 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/2498_SO2032009_TownsvillePNG.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.364 ms
+Time: 1.086 ms
+Time: 0.151 ms
+ROLLBACK
+Time: 0.075 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AMSA96_1_OuterGBRRoute.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.171 ms
+CREATE TABLE
+Time: 1.430 ms
+Time: 0.975 ms
+Time: 0.177 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU130120_NorthAustralia.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.121 ms
+CREATE TABLE
+Time: 1.465 ms
+Time: 1.067 ms
+Time: 0.148 ms
+ROLLBACK
+Time: 0.083 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU130150_NortheastAustralia.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.529 ms
+Time: 0.938 ms
+Time: 0.166 ms
+ROLLBACK
+Time: 0.072 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU220140_WestCoralSea.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.163 ms
+CREATE TABLE
+Time: 1.383 ms
+Time: 0.946 ms
+Time: 0.139 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU220150_EastCoralSea.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.156 ms
+CREATE TABLE
+Time: 1.405 ms
+Time: 0.991 ms
+Time: 0.133 ms
+ROLLBACK
+Time: 0.083 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU230150_SouthCoralSea.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.188 ms
+CREATE TABLE
+Time: 1.380 ms
+Time: 1.080 ms
+Time: 0.134 ms
+ROLLBACK
+Time: 0.085 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU311146_NorthCoralSea.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.198 ms
+CREATE TABLE
+Time: 1.386 ms
+Time: 1.028 ms
+Time: 0.193 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU311153_WestWoodlarkBasin.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.154 ms
+CREATE TABLE
+Time: 1.376 ms
+Time: 0.814 ms
+Time: 0.153 ms
+ROLLBACK
+Time: 0.071 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU311154_EastWoodlarkBasin.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.120 ms
+CREATE TABLE
+Time: 1.494 ms
+Time: 0.953 ms
+Time: 0.139 ms
+ROLLBACK
+Time: 0.080 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU312149_PNGoffshore2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.405 ms
+Time: 0.829 ms
+Time: 0.161 ms
+ROLLBACK
+Time: 0.080 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU312150_PNGoffshore3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.136 ms
+CREATE TABLE
+Time: 1.380 ms
+Time: 0.981 ms
+Time: 0.154 ms
+ROLLBACK
+Time: 0.096 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU312151_PNGoffshore4.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.350 ms
+Time: 1.002 ms
+Time: 0.222 ms
+ROLLBACK
+Time: 0.085 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU318147_QldTrough3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.166 ms
+CREATE TABLE
+Time: 1.499 ms
+Time: 0.935 ms
+Time: 0.140 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU319147_CentralGBR1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.372 ms
+Time: 0.924 ms
+Time: 0.147 ms
+ROLLBACK
+Time: 0.113 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU319148_CentralGBR2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.379 ms
+Time: 1.069 ms
+Time: 0.151 ms
+ROLLBACK
+Time: 0.072 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU320147_CentralGBR3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.166 ms
+CREATE TABLE
+Time: 1.439 ms
+Time: 0.867 ms
+Time: 0.145 ms
+ROLLBACK
+Time: 0.120 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU320148_CentralGBR4.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.170 ms
+CREATE TABLE
+Time: 1.414 ms
+Time: 1.010 ms
+Time: 0.158 ms
+ROLLBACK
+Time: 0.098 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU320149_CentralGBR.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.368 ms
+Time: 0.968 ms
+Time: 0.149 ms
+ROLLBACK
+Time: 0.076 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU322150_PercyIsles.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.148 ms
+CREATE TABLE
+Time: 1.371 ms
+Time: 0.985 ms
+Time: 0.132 ms
+ROLLBACK
+Time: 0.096 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU323151_SouthGBR1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.203 ms
+CREATE TABLE
+Time: 1.441 ms
+Time: 0.850 ms
+Time: 0.215 ms
+ROLLBACK
+Time: 0.081 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU323152_CapricornCh1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.161 ms
+CREATE TABLE
+Time: 1.439 ms
+Time: 0.885 ms
+Time: 0.147 ms
+ROLLBACK
+Time: 0.089 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU324152_CapricornCh2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.144 ms
+CREATE TABLE
+Time: 1.413 ms
+Time: 0.964 ms
+Time: 0.143 ms
+ROLLBACK
+Time: 0.099 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU324153_CapricornCh3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.177 ms
+CREATE TABLE
+Time: 1.472 ms
+Time: 0.827 ms
+Time: 0.150 ms
+ROLLBACK
+Time: 0.090 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU325153_FraserIs1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.204 ms
+CREATE TABLE
+Time: 1.443 ms
+Time: 1.063 ms
+Time: 0.144 ms
+ROLLBACK
+Time: 0.135 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411147_PNGoffshore5.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.452 ms
+Time: 1.074 ms
+Time: 0.156 ms
+ROLLBACK
+Time: 0.096 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411148_PNGoffshore6.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.112 ms
+CREATE TABLE
+Time: 1.385 ms
+Time: 0.916 ms
+Time: 0.151 ms
+ROLLBACK
+Time: 0.081 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411149_PNGoffshore7.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.121 ms
+CREATE TABLE
+Time: 1.376 ms
+Time: 1.048 ms
+Time: 0.156 ms
+ROLLBACK
+Time: 0.100 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411150_PNGoffshore8.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.122 ms
+CREATE TABLE
+Time: 1.366 ms
+Time: 0.910 ms
+Time: 0.147 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411152_MisimaIs1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.145 ms
+CREATE TABLE
+Time: 1.439 ms
+Time: 1.034 ms
+Time: 0.187 ms
+ROLLBACK
+Time: 0.093 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU411152_PNGoffshore9.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.391 ms
+Time: 1.047 ms
+Time: 0.137 ms
+ROLLBACK
+Time: 0.087 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU412142_EastCapeYork.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.113 ms
+CREATE TABLE
+Time: 1.651 ms
+Time: 1.040 ms
+Time: 0.154 ms
+ROLLBACK
+Time: 0.082 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU412142_WestCapeYork.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.161 ms
+CREATE TABLE
+Time: 1.386 ms
+Time: 0.953 ms
+Time: 0.147 ms
+ROLLBACK
+Time: 0.088 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU412152_MisimaIs2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.158 ms
+CREATE TABLE
+Time: 1.404 ms
+Time: 0.924 ms
+Time: 0.175 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU412153_MisimaIs3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.163 ms
+CREATE TABLE
+Time: 1.388 ms
+Time: 0.938 ms
+Time: 0.148 ms
+ROLLBACK
+Time: 0.094 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU412154_RosselIs.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.153 ms
+CREATE TABLE
+Time: 1.515 ms
+Time: 1.062 ms
+Time: 0.202 ms
+ROLLBACK
+Time: 0.089 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU413143_CapeWeymouth1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.125 ms
+CREATE TABLE
+Time: 1.473 ms
+Time: 0.995 ms
+Time: 0.160 ms
+ROLLBACK
+Time: 0.074 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU413144_CapeWeymouth.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.204 ms
+CREATE TABLE
+Time: 1.707 ms
+Time: 0.906 ms
+Time: 0.154 ms
+ROLLBACK
+Time: 0.079 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU414144_CapeMelville.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.196 ms
+CREATE TABLE
+Time: 1.407 ms
+Time: 0.896 ms
+Time: 0.133 ms
+ROLLBACK
+Time: 0.097 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU415143_CapeMelville2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.157 ms
+CREATE TABLE
+Time: 1.366 ms
+Time: 1.018 ms
+Time: 0.142 ms
+ROLLBACK
+Time: 0.083 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU415144_CapeMelville3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.357 ms
+Time: 0.957 ms
+Time: 0.160 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU415145_CapeFlattery1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.152 ms
+CREATE TABLE
+Time: 1.456 ms
+Time: 0.963 ms
+Time: 0.178 ms
+ROLLBACK
+Time: 0.090 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU416145_CapeFlattery2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.141 ms
+CREATE TABLE
+Time: 1.364 ms
+Time: 0.948 ms
+Time: 0.188 ms
+ROLLBACK
+Time: 0.080 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU416146_CapeFlattery3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.159 ms
+CREATE TABLE
+Time: 1.380 ms
+Time: 0.912 ms
+Time: 0.132 ms
+ROLLBACK
+Time: 0.080 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU417145_Cairns1.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.216 ms
+CREATE TABLE
+Time: 1.397 ms
+Time: 1.044 ms
+Time: 0.180 ms
+ROLLBACK
+Time: 0.077 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU417146_Cairns2.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.160 ms
+CREATE TABLE
+Time: 1.428 ms
+Time: 0.866 ms
+Time: 0.146 ms
+ROLLBACK
+Time: 0.078 ms
+/geosat2/cm_data_topo1/data/private/3DGBR/AU418145_Cairns3.cm
+Timing is on.
+You are now connected to database "sample" as user "btea".
+SET
+Time: 0.156 ms
+CREATE TABLE
+Time: 1.569 ms

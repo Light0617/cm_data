@@ -1,0 +1,19 @@
+command in PostgreSQL
+\l : look up all database
+\c -database : look up the database
+\q : exit
+\d : look up the tabls
+
+command of shells
+# create pings table in database (bathymetry)
+create_bathymetry_table.sh
+
+# look up the counts in pings in database (bathymetry)
+lookup_pings_count.sh
+
+# copy all files into pings in database (bathymetry)
+cp /geosat2/cm_data_topo1/data /tmp/data
+
+test.sh
+
+
