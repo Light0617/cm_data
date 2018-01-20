@@ -1,0 +1,10 @@
+#append file path with 'data'
+:1,$ s/cm_data_topo1\/public/cm_data_topo1\/data\/public/g
+:1,$ s/cm_data_topo1\/private/cm_data_topo1\/data\/private/g
+
+#print the file_path from metadata file
+awk '{print $3 "/" $2}' /tmp/data/sid_filelist.txt > file_paths
+
+#look up all file path is valid or not
+./run.sh < file_paths
+# PS: sample_file_paths is a sample of file_paths

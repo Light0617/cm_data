@@ -1,0 +1,13 @@
+# file_paths:
+only file_path
+
+# sample_file_paths:
+It is a sample of file_paths
+
+# verify_path.sh
+run to verify whether all file paths is correct
+
+#error
+the error file path will be recorded
+
+
