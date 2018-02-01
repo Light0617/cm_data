@@ -14,9 +14,9 @@ set -u
 # Set these environmental variables to override them,
 # but they have safe defaults.
 
-search_dir='/tmp/data'
-search_dir1='/tmp/data/private'
-search_dir2='/tmp/data/public'
+search_dir='/tmp/data/data'
+search_dir1='/tmp/data/data/private'
+search_dir2='/tmp/data/data/public'
 
 # for debugging
 #search_dir1='/tmp/data1'
@@ -24,28 +24,39 @@ search_dir2='/tmp/data/public'
 ((numFiles=0))
 
 
-for entry in "$search_dir1"/* "$search_dir2"/*
+for entry in "$search_dir1"/*
 do
 	if [ -d "$entry" ];then
+		access="$(basename $search_dir1)"
+		org="$(basename $entry)"
+		echo "$access"
+		echo "$org"
 		for file in "$entry"/*.cm; do
 			if [ -f "$file" ];then
 				item=$search_dir/'test.txt'
 				echo "$item"
 				echo "$file"
-				sed 's/^[ \t]*//;s/[ \t]*$//' < $file > $item
-				$RUN_PSQL -f copyFileIntoTable.sql -v v1="'$item'"
-				((numFiles++))
 			fi
 		done
 	fi
-	if [ -f "$entry" ];then
-		item=$search_dir/'test.txt'
-		echo "$entry"
-		sed 's/^[ \t]*//;s/[ \t]*$//' < $entry > $item
-		$RUN_PSQL -f copyFileIntoTable.sql -v v1="'$item'"
-		((numFiles++))
-	fi
 done
 
+echo '--------------------'
+for entry in "$search_dir2"/*
+do
+	if [ -d "$entry" ];then
+		access="$(basename $search_dir2)"
+		org="$(basename $entry)"
+		echo "$access"
+		echo "$org"
+		for file in "$entry"/*.cm; do
+			if [ -f "$file" ];then
+				item=$search_dir/'test.txt'
+				echo "$item"
+				echo "$file"
+			fi
+		done
+	fi
+done
 echo $numFiles
 date

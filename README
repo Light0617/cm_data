@@ -12,8 +12,10 @@ create_bathymetry_table.sh
 lookup_pings_count.sh
 
 # copy all files into pings in database (bathymetry)
-cp /geosat2/cm_data_topo1/data /tmp/data
+cp -r /geosat2/cm_data_topo1/data /tmp/data
+cp -a /geosat2/cm_data_topo1/data/. /tmp/
 
-test.sh
+# copy data to database
+test.sh 
 
-
+# build a index on source_id and depth 
