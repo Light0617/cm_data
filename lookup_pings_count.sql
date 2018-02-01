@@ -5,5 +5,6 @@
 -- ALTER TABLE pings RENAME TO pings1;
 --select * from pings where source_id = 55124;
 -- select count(*) from pings;
+
 select * from organization;
 COMMIT;
