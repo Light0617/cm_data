@@ -33,7 +33,6 @@ do
         echo "$org"
 		id=$(psql -qtA -d bathymetry -f insert_organization_table.sql  -v org="'$org'" -v acc="'$access'")
 		echo "$id"
-		echo "$entry"
 		for file in "$entry"/*.cm; do
 			if [ -f "$file" ];then
 				item=$search_dir/'test.txt'

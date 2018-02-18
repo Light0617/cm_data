@@ -12,5 +12,5 @@ root=$1;    shift
 set -e
 set -u
 
-$RUN_PSQL -f clearTable.sql
+$RUN_PSQL -f clear_table.sql
 date

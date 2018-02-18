@@ -12,5 +12,5 @@ root=$1;    shift
 set -e
 set -u
 
-$RUN_PSQL -f defineIndexes.sql
+$RUN_PSQL -f define_indexes.sql
 date

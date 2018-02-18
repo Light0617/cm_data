@@ -21,17 +21,14 @@ SET search_path TO srtm_plus_schema,"$user",public;
         sigma_h         float8 NOT NULL ,
         sigma_d         float8 NOT NULL ,
         source_id       int4   NOT NULL ,
-        predicted_depth float8 NOT NULL	,
-		organization_id int	
+        predicted_depth float8 NOT NULL
 	);
 COPY tmp FROM :v1 WITH (DELIMITER ' ') ;
-UPDATE tmp SET organization_id = :v2;
     INSERT INTO pings (
-        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth, 
-		organization_id )
+        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth)
     SELECT
-        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth, 
-		organization_id
+        time, longitude, latitude, depth, sigma_h, sigma_d, source_id, predicted_depth
     FROM tmp
     ;
+UPDATE pings SET organization_id = :v2 where source_id  = (select min(source_id) from tmp);
 COMMIT;

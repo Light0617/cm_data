@@ -1,3 +1,3 @@
 \connect bathymetry
--- TRUNCATE pings;
--- commit;
+TRUNCATE pings;
+commit;

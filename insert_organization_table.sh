@@ -15,4 +15,3 @@ org="NGO"
 access="public"
 c=$(psql -qtAX -d bathymetry -f insert_organization_table.sql  -v org="'$org'" -v acc="'$access'")
 echo "$c"
-date

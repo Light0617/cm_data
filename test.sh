@@ -1,4 +1,5 @@
 #! /bin/bash
+
 # get all good pings from all good files in dir. Search "maxDepth" of sub directories
 export PGHOST=${PGHOST-localhost}
 export PGPORT=${PGPORT-5432}
@@ -11,52 +12,5 @@ root=$1;    shift
 set -e
 set -u
 
-# Set these environmental variables to override them,
-# but they have safe defaults.
-
-search_dir='/tmp/data/data'
-search_dir1='/tmp/data/data/private'
-search_dir2='/tmp/data/data/public'
-
-# for debugging
-#search_dir1='/tmp/data1'
-#search_dir2='/tmp/data1'
-((numFiles=0))
-
-
-for entry in "$search_dir1"/*
-do
-	if [ -d "$entry" ];then
-		access="$(basename $search_dir1)"
-		org="$(basename $entry)"
-		echo "$access"
-		echo "$org"
-		for file in "$entry"/*.cm; do
-			if [ -f "$file" ];then
-				item=$search_dir/'test.txt'
-				echo "$item"
-				echo "$file"
-			fi
-		done
-	fi
-done
-
-echo '--------------------'
-for entry in "$search_dir2"/*
-do
-	if [ -d "$entry" ];then
-		access="$(basename $search_dir2)"
-		org="$(basename $entry)"
-		echo "$access"
-		echo "$org"
-		for file in "$entry"/*.cm; do
-			if [ -f "$file" ];then
-				item=$search_dir/'test.txt'
-				echo "$item"
-				echo "$file"
-			fi
-		done
-	fi
-done
-echo $numFiles
+$RUN_PSQL -f test.sql
 date
