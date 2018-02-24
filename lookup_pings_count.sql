@@ -1,11 +1,11 @@
 \timing on
 \connect bathymetry 
-select source_id, longitude, latitude
-FROM pings
-where longitude  BETWEEN 0 AND 5; 
-and latitude BETWEEN 0 AND 5;
-commit;
---select column_name from information_schema.columns where table_name='pings';
+--select source_id, longitude, latitude
+--FROM pings
+--where longitude  BETWEEN 0 AND 5; 
+--and latitude BETWEEN 0 AND 5;
+--commit;
+select column_name from information_schema.columns where table_name='pings';
 -- ALTER TABLE pings RENAME TO pings1;
 --select * from file_paths where file_path like '%3DGBR%'; --54697
 --select * from pings where (source_id = 10000 or source_id = 32784 or source_id = 54697) and time < 10;

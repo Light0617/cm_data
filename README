@@ -16,6 +16,12 @@ cp -r /geosat2/cm_data_topo1/data /tmp/data
 cp -a /geosat2/cm_data_topo1/data/. /tmp/
 
 # copy data to database
-test.sh 
+./copyFileIntoTableSmaple.sh
 
 # build a index on source_id and depth 
+./define_indexes.sh
+
+
+# test SQL command
+- modify the SQL in test.sql
+- and execute test.sh
