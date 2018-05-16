@@ -15,20 +15,28 @@ x=$1
 for var in "$@"
 do
 	if (($i == 0)) 
-		then 
-			i=$(($i + 1))
-			continue
+	then 
+		i=$(($i + 1))
+		continue
 	fi
-    echo "$var";
 	if (($i % 2 == 0)) 
-		then
-			x="$x,$var"
-		else
-			x="$x $var"
+	then
+		x="$x, $var"
+	else
+		x="$x $var"
 	fi
+	# store first point
+	if (($i == 1)) 
+	then
+		first_point=$x  
+	fi
+
 	i=$(($i + 1))	
 done
-echo "x= $x"
-$RUN_PSQL -f test.sql -v x=$x;
+echo "10 20, 20 40, 40 60, 60 80, 80 90, 10 20"
+x="LINESTRING($x, $first_point)"
+echo "x=$x"
+#$RUN_PSQL -f geo.sql;
+$RUN_PSQL -f geo.sql -v x=$x;
 #$RUN_PSQL -f test.sql;
 date
